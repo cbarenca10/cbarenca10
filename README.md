@@ -1,16 +1,22 @@
-### Hi there 👋
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
-<!--
-**cbarenca10/cbarenca10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"> Hi, I'm Ulises Barenca 😄 </h1> 
+ 
+<div align="center"> 
 
-Here are some ideas to get you started:
+  <i> This is funny !! <img align='center' src='https://user-images.githubusercontent.com/43510347/130738937-66ecb69b-d938-49e3-abc7-4f84bd02caee.png' width='80'>
+</i><br><br>
+  <a href="https://img.shields.io/github/followers/cbarenca10?style=social" ><img src="https://img.shields.io/github/followers/cbarenca10?style=social" /> </a> <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <div align="left"> 
+      <div>
+        <li> Mixology lover and something else 🥃</li>
+        <li> Dedicated to learning new things✨  </li>
+        <li> Live life 🤘🏼 and enjoy every moment 🌴 </li>
+        <li> We are abstract 👁️🤯🪐👁️</li>
+      </div>
+  </div>
+  
+</div>
+
+<img align='right' src='https://user-images.githubusercontent.com/43510347/130740615-e9902f18-da6a-4216-9080-200ae9d3e2f0.jpg' width='250'>
