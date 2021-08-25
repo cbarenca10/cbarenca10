@@ -6,8 +6,9 @@
 
   <i> This is funny !! <img align='center' src='https://user-images.githubusercontent.com/43510347/130738937-66ecb69b-d938-49e3-abc7-4f84bd02caee.png' width='80'>
 </i><br><br>
-  <a href="https://img.shields.io/github/followers/cbarenca10?style=social" ><img src="https://img.shields.io/github/followers/cbarenca10?style=social" /> </a> <br>
-
+  <a href="https://img.shields.io/github/followers/cbarenca10?style=social" ><img src="https://img.shields.io/github/followers/cbarenca10?style=social" /> </a> 
+  <a href="https://www.linkedin.com/in/cristian-ulises-barenca-sotelo-50ba03183/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width='80'/> </a> <br>
+ 
   <div align="left"> 
       <div>
         <li> Mixology lover and something else 🥃</li>
@@ -19,4 +20,4 @@
   
 </div>
 
-<img align='right' src='https://user-images.githubusercontent.com/43510347/130740615-e9902f18-da6a-4216-9080-200ae9d3e2f0.jpg' width='250'>
+<img align='right' src='https://user-images.githubusercontent.com/43510347/130749124-2de73838-76f2-4045-97a9-39c20a66753a.gif' width='250'>
